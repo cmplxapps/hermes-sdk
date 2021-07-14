@@ -15,7 +15,7 @@
 
 win-exec/*
 linux-exec/*
-
+jsrc/hermes/.settings/*
 
 !hermesapi.dll
 !hermes.jar
