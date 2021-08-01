@@ -1,3 +1,3 @@
-# Hermes Engine
+# Hermes SDK
 
-*Its more of an SDK*
+An SDK for game development.
